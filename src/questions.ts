@@ -315,7 +315,7 @@ export const questions: Question[] = [
   {
     questionNumber: 24,
     reference: "BAFS600C2Ch2-24",
-    text: "Which of the following is NOT the role of human resources management in the company?",
+    text: "Which of the following is NOT the role of human resources management in a company?",
     options: {
       A: "develop a fair compensation system for the employees",
       B: "recruit an adequate number of workers",
